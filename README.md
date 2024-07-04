@@ -31,8 +31,12 @@ Este é um projeto para comparar diferentes Fundos Imobiliários utilizando dado
     cd Fundamentus_Dash
     ```
 
-3. Instale as dependências:
+3. Crie um ambiente virtual e instale as dependências:
     ```
+    python -m venv venv 
+
+    venv/Scripts/activate 
+
     pip install -r requirements.txt
     ```
 
