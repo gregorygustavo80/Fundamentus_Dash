@@ -138,5 +138,5 @@ botao.pack(pady=10)
 
 janela.mainloop()
 
-# Aciona o comando para criar a Dashboard
+# Executa o comando para criar a Dashboard
 os.system('streamlit run dashboard.py')
