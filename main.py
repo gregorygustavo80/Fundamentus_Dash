@@ -90,7 +90,7 @@ def salvar_resultados(tickets):
     print(f'Resultados salvos em {nome_arquivo}')
 
 
-
+# Interface gráfica com Tkinter
 def transicao():
     wait()
     janela.after(3000, mostrar_mensagem)
@@ -138,4 +138,5 @@ botao.pack(pady=10)
 
 janela.mainloop()
 
+# Aciona o comando para criar a Dashboard
 os.system('streamlit run dashboard.py')
