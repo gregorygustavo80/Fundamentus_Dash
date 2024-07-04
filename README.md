@@ -51,7 +51,7 @@ Este é um projeto para comparar diferentes Fundos Imobiliários utilizando dado
 
 3. Os resultados serão salvos em um arquivo Excel chamado `comparacao_fundos.xlsx`.
 
-4. Após a coleta dos dados, feche a interface gráfica. um dashboard interativo será aberto utilizando Streamlit.
+4. Após a coleta dos dados, feche a interface gráfica. Um dashboard interativo será aberto utilizando Streamlit.
 
 ## Estrutura do Código
 
