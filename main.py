@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 import os 
-import time
 
 def get_fund_details(ticker):
 
