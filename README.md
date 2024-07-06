@@ -1,6 +1,7 @@
 # Comparador de Fundos Imobiliários
 
 Este é um projeto para comparar diferentes Fundos Imobiliários utilizando dados do site [Funds Explorer](https://www.fundsexplorer.com.br/). O programa é desenvolvido em Python e usa bibliotecas como `tkinter`, `BeautifulSoup`, `requests` e `pandas`.
+  ![image](https://github.com/gregorygustavo80/Fundamentus_Dash/assets/168982426/1421a9bd-bfef-4cd2-8685-300cc85afb6d)
 
 ## Funcionalidades
 
@@ -8,6 +9,7 @@ Este é um projeto para comparar diferentes Fundos Imobiliários utilizando dado
 - Coleta de informações como Preço, Dividend Yield, Último Rendimento e P/VP dos fundos imobiliários.
 - Exportação dos dados coletados para um arquivo Excel.
 - Integração com o Streamlit para exibição dos dados em um dashboard interativo.
+
 
 ## Requisitos
 
